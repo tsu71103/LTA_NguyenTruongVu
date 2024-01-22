@@ -11,7 +11,7 @@ function Header(props){
     }}   >
       <Text style={{
         color:"black",
-        backgroundColor:'green'}}>Open up App</Text>
+        backgroundColor:'green'}}>Open up Aapp</Text>
       
     </View>);
 }
